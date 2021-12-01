@@ -25,7 +25,7 @@ pre = "<b>5.1 </b>"
 
 다음은 요청의 WAF 로그 예입니다. 요청 평가를 종료 한 규칙에 대한 세부 정보를 받습니다. 로그에는 해당 요청에 대한 조치도 포함됩니다.
 
-![DVWA Creation](/images/log7.png)
+![DVWA Creation](/content/images/log7.png)
 
 - 해당 요청이 **TestRule**에 의해 차단이 되었는지에 대한 내용 및 관련 자세한 사항을 확인 할 수 있습니다. 
 - 이전에 Redacted fields 에서 선택했던 "*Query string*" 에 대한 필드인 args가 "*REDACTED*" 로 표현되어있는 것을 확인 할 수 있습니다. 
